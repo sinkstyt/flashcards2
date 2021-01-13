@@ -1,0 +1,21 @@
+{"questionlist":[
+  {"cardfront":"JavaScript (JS)", "cardback":""},
+  {"cardfront":"Operators", "cardback":""},
+  {"cardfront":"Variables", "cardback":"are one of the major features of computer programming and we will use them all the time when we are coding. A variable is just a container that stores some information such as a number, an object, or a string."},
+  {"cardfront":"Variable naming conventions", "cardback":""},
+  {"cardfront":"Functions", "cardback":"alert() is a function. A function is something that performs an action. Just like a method, a function can take an argument. The alert() function pops up a dialog box with the string that you pass in as an argument."},
+  {"cardfront":"Methods", "cardback":"toExponential() is called a method. You can think of a method as an action that a number can perform or have taken on it. A method is actually a type of function."},
+  {"cardfront":"Arguments", "cardback":""},
+  {"cardfront":"Parameters", "cardback":""},
+  {"cardfront":"Return", "cardback":""},
+  {"cardfront":"Chaining methods", "cardback":""},
+  {"cardfront":"Strings", "cardback":"The stuff inside the quotes is called a string. Strings can include letters, punctuation, and even numbers."},
+  {"cardfront":"Booleans", "cardback":""},
+  {"cardfront":"Undefined", "cardback":""},
+  {"cardfront":"NaN", "cardback":""},
+  {"cardfront":"Null", "cardback":""},
+  {"cardfront":"Alert", "cardback":""},
+  {"cardfront":"Comments", "cardback":""},
+  {"cardfront":"jQuery", "cardback":""},
+  {"cardfront":"Attributes", "cardback":""}
+]}
